@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AbdulrazaqYusuf01/Natours-Project/issues"
   },
-  "homepage": "https://github.com/AbdulrazaqYusuf01/Natours-Project#readme"
+  "homepage": "https://github.com/AbdulrazaqYusuf01/Natours-Project#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
