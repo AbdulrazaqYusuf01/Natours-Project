@@ -1,3 +1,4 @@
+/* eslint-disable import/no-useless-path-segments */
 const express = require('express');
 const userController = require('./../controllers/userController');
 
